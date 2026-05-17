@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Gender,Region,Tenure,Churn
+C001,Ramu,24,Male,East,12,Yes
+C002,Priya,32,Female,West,36,No
+C003,Amit,45,Male,North,60,No
+C004,Sneha,29,Female,South,8,Yes
+C005,Riya,38,Female,East,48,No
+C006,Arjun,22,Male,West,5,Yes
+C007,Neha,41,Female,North,72,No
+C008,Vikram,35,Male,South,15,Yes
+C009,Pooja,27,Female,East,20,No
+C010,Karan,30,Male,West,10,Yes
